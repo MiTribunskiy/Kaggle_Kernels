@@ -1,2 +1,2 @@
-My Kaggle profile:
-https://www.kaggle.com/mitribunskiy
+My Kaggle kernels:
+https://www.kaggle.com/mitribunskiy/tutorial-catboost-overview
